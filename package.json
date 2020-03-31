@@ -9,7 +9,7 @@
     "@material-ui/lab": "^4.0.0-alpha.31",
     "@material-ui/styles": "latest",
     "clsx": "latest",
-    "next": "^9.1.2",
+    "next": "^9.3.2",
     "query-string": "^6.8.3",
     "react": "latest",
     "react-dom": "latest"
